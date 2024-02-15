@@ -1,13 +1,13 @@
-{"intense";[
+{"intents":[
     {
         "tag": "saludo",
-        "patterns": ["hola", "que tal", "como estas", "saludos"],
-        "responses": ["hola", "buenos dias", "buenos tardes", "estoy bien"],
+        "patterns": ["hola", "qué tal", "cómo estás", "saludos"],
+        "responses": ["Hola!", "Buenos días!", "¿Cómo estás?"]
     },
     {
         "tag": "nombre",
-        "patterns": ["hola", "como es tu nombre", "como te llamas", "quien sos"],
-        "responses": ["hola", "Me llamo chatbot", "mi nombre es chatbot"],
+        "patterns": ["cómo es tu nombre", "cómo te llamas"],
+        "responses": ["Me llamo Juan Pablo", "Mi nombre es Juan Pablo"]
     }
 ]
 
